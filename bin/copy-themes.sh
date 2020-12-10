@@ -2,6 +2,7 @@ themes=(
 	casper
 	attila
 	london
+	london-custom
 	massively
 	bleak
 	the-shell
